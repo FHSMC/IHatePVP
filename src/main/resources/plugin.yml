@@ -1,0 +1,7 @@
+name: IHatePVP
+version: '${version}'
+main: ml.am2i9.ihatepvp.IHatePVP
+api-version: 1.17
+authors: [ AM2i9 ]
+description: I sure do hate PVP
+website: https://am2i9.ml
